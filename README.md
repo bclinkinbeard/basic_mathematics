@@ -1,2 +1,1 @@
-# basic_mathematics
-Basic Literasee: Mathematics
+# Basic Literasee: Mathematics
