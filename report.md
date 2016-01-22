@@ -1,6 +1,6 @@
 # Typesetting Mathematics
 
-[Literasee](http://literasee.io) (via the [Kramdown](http://kramdown.gettalong.org/) markdown interpreter) 
+[Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter) 
 includes [MathJax](https://www.mathjax.org/) which provides 
 typeset quality mathematics as part of any web-based content one produces.
 
