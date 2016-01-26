@@ -1,3 +1,10 @@
+---
+title: "Basic Literasee"
+author: Damian Betebenner
+date: January 26, 2016
+---
+
+
 # Basic Literasee
 ## Mathematics typesetting
 
