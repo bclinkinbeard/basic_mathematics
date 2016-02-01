@@ -61,6 +61,8 @@ When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
+The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often expressed as as $\varphi$ can be expressed as a continued fraction as follows:
+
 $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}$$
 
 ### Numerous Math fonts
