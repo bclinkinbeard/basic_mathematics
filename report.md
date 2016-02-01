@@ -8,9 +8,11 @@ just how much is possible (don't forget to view the [source](https://raw.githubu
 
 The cube root of $x$ is denoted $\sqrt[3]{x}$.
 
-In-line summation notation: $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n$.
+Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n = n(n-1)/2$.
 
-In-line limit notation: $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
+Using L'Hôpital's rule one can easily show that $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
+
+
 
 
 ## Centered math:
