@@ -1,8 +1,7 @@
 # Typesetting Mathematics
 
-[Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter) 
-includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces.
-Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
+[Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter)
+includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
 just how much is possible (don't forget to view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
 
 ## In-line math:
@@ -10,6 +9,8 @@ just how much is possible (don't forget to view the [source](https://raw.githubu
 The cube root of $x$ is denoted $\sqrt[3]{x}$.
 
 In-line summation notation: $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n$.
+
+In-line limit notation: $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
 
 
 ## Centered math:
@@ -20,7 +21,7 @@ $$
 \lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
 $$
 
-Stokes Theorem: 
+Stokes Theorem:
 
 $$
 \int\_{\partial \Omega} = \int\_\Omega d\omega
@@ -54,14 +55,13 @@ $$f(x) = \begin{cases}1 & -1 \le x < 0 \\\\ \frac{1}{2} & x = 0 \\\\ 1 - x^2 & \
 
 ### Mixtures of inline and centered mathematics:
 
-When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c = 0$ and they are 
+When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c = 0$ and they are
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 
-### AMS LaTeX 
+### AMS LaTeX
 
 MathJax supports AMS-LaTeX:
 
 Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
-
