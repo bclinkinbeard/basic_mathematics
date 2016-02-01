@@ -13,8 +13,6 @@ Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n = n(n-1
 Using L'Hôpital's rule one can easily show that $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
 
 
-
-
 ## Centered math:
 
 Basic limit notation:
@@ -61,6 +59,8 @@ When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
+
+$$\textrm{Golden Ratio} \def \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}$$
 
 ### AMS LaTeX
 
