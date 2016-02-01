@@ -3,10 +3,6 @@
 
 ---
 
-<section data-background="dddddd">
-
-
-
 - [Literasee](http://literasee.io) supports math typesetting with [MathJax](https://www.mathjax.org/).
 - Profesional quality typeset mathematics as part of any web-based content one produces!
 - Supported in both Report and Presentation formats.
