@@ -61,10 +61,20 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}$$
 
-### AMS LaTeX
+### Numerous Math fonts
 
-MathJax supports AMS-LaTeX:
+Bulletin Board font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
-Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
-Bold Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
-Math bold: $\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+Math bold font: $\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+
+Math typewriter font: $\mathtt{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+
+Math sans-serif font: $\mathsf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+
+Math Roman font: $\mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+
+Math calligraphic letters: $\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+Math script letters: $\mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+Math "fraktur" (old German) letters: $\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
