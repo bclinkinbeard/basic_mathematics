@@ -12,6 +12,8 @@ Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n = n(n-1
 
 Using L'Hôpital's rule one can easily show that $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
 
+The Continuum Hypothesis (assuming the Axiom of Choice) can be stated as: $2^{\aleph\_0} = \aleph\_1$
+
 
 ## Centered math:
 
