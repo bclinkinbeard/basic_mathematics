@@ -59,7 +59,6 @@ When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-
 $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}$$
 
 ### AMS LaTeX
@@ -67,3 +66,4 @@ $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1
 MathJax supports AMS-LaTeX:
 
 Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+Bold Bulletin Board Font: $\Bbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
