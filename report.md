@@ -66,4 +66,5 @@ $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1
 MathJax supports AMS-LaTeX:
 
 Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
-Bold Bulletin Board Font: $\Bbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+Bold Bulletin Board Font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+Math bold: $\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
