@@ -4,7 +4,7 @@
 includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
 just how much is possible (don't forget to view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
 
-## TEST
+## BEN TEST
 
 ## In-line math:
 
