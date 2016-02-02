@@ -17,23 +17,32 @@ The Continuum Hypothesis (assuming the Axiom of Choice) can be stated as: $2^{\a
 
 ## Centered math:
 
-Basic limit notation:
+#### Basic limit notation:
 
 $$
 \lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
 $$
 
-Stokes Theorem:
+#### Stokes Theorem:
 
 $$
 \int\_{\partial \Omega} = \int\_\Omega d\omega
 $$
 
-Three parameter logistic IRT model:
+#### Three parameter logistic IRT model:
 
 $$
 p\_i (\theta) = c\_i + {1 - c\_i \over 1 + e^{-a\_i(\theta - b\_i)}}
 $$
+
+#### A Cross Product Formula
+
+\[\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
+\end{vmatrix}  \]
+
 
 ## Aligned equations:
 
@@ -61,7 +70,7 @@ When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often expressed as as $\varphi$ can be expressed as a continued fraction as follows:
+The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often expressed as $\varphi$, can be expressed as a continued fraction as follows:
 
 $$\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}$$
 
