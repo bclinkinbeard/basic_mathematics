@@ -4,8 +4,6 @@
 includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
 just how much is possible (don't forget to view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
 
-## BEN TEST 4
-
 ## In-line math:
 
 The cube root of $x$ is denoted $\sqrt[3]{x}$.
@@ -47,7 +45,7 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 
 #### The Cauchy-Schwarz Inequality
 
-$\displaymath{\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)}$
+$\displaystyle \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
 
 
 ## Aligned equations:
