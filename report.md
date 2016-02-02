@@ -15,7 +15,11 @@ Using L'Hôpital's rule one can easily show that $\lim\_{n \rightarrow \infty} \
 The Continuum Hypothesis (assuming the Axiom of Choice) can be stated as: $2^{\aleph\_0} = \aleph\_1$
 
 
-## Centered math:
+## Displaystyle (left- and center-justified) math:
+
+#### The Cauchy-Schwarz Inequality
+
+$\displaystyle \left( \sum_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$
 
 #### Basic limit notation:
 
@@ -42,10 +46,6 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\\\
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
 \end{vmatrix}  $$
-
-#### The Cauchy-Schwarz Inequality
-
-$\displaystyle \left( \sum_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$
 
 
 ## Aligned equations:
