@@ -45,6 +45,10 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
 \end{vmatrix}  $$
 
+#### The Cauchy-Schwarz Inequality
+
+\[ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) \]
+
 
 ## Aligned equations:
 
