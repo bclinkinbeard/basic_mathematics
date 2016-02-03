@@ -53,7 +53,7 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 
 ## Aligned equations:
 
-$\begin{align} f(x, y) & = (x+y)^n \tag{1}\\\\ & = \left(n\over0\right) x^ny^0+ \tag{2}\\\\ \end{align}$
+$\begin{align} f(x, y) & = (x+y)^n \tag{1}\\\\ & = n\choose0 x^ny^0+ \tag{2}\\\\ \end{align}$
 
 $\begin{align} MSE(\hat{\theta}) & = \mathbb{E}[(\hat{\theta} - \theta)^2] \\\\ & = \dfrac{1}{n} \sum\limits\_{i=1}^n (\widehat{\theta}\_{i} - \theta\_i)^2 \\\\ \end{align}$
 
