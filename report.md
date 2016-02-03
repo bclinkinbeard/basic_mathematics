@@ -1,3 +1,4 @@
+<center># Typesetting Mathematics</center>
 # Typesetting Mathematics
 
 [Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter)
