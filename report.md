@@ -53,7 +53,7 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 
 ## Aligned equations:
 
-$\begin{align} f(x) & = (a+b)^2 \\\\ & = a^2+2ab+b^2 \\\\ \end{align}$
+$\begin{align} f(x) & = (a+b)^2 \tag{1}\\\\ & = a^2+2ab+b^2 \tag{2}\\\\ \end{align}$
 
 $\begin{align} MSE(\hat{\theta}) & = \mathbb{E}[(\hat{\theta} - \theta)^2] \\\\ & = \dfrac{1}{n} \sum\limits\_{i=1}^n (\widehat{\theta}\_{i} - \theta\_i)^2 \\\\ \end{align}$
 
