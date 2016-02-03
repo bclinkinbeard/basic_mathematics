@@ -1,5 +1,4 @@
-<center># Typesetting Mathematics</center>
-# Typesetting Mathematics
+<center> <h1>Typesetting Mathematics</h1> </center>
 
 [Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter)
 includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
