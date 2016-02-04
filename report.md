@@ -108,7 +108,7 @@ $$
 \mathbf{x} \cdot \mathbf{y} = \sum\_{i=1}^n x_i y_i.
 $$
 
-The inner product of a vector $\mathbf{x} \in \mathbb{R}^n$ with itself, denoted $\norm x \norm$, is the squared Euclidean distance associated
+The inner product of a vector $\mathbf{x} \in \mathbb{R}^n$ with itself, denoted $lVert x \rVert$, is the squared Euclidean distance associated
 with $\mathbf{x}$.
 
 
