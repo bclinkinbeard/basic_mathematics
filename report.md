@@ -102,16 +102,17 @@ $$
 
 #### Dot product
 
-Let $\bm{x}, \bm{y} \in \mathbb{R}^n$, then the _dot product_ of $\bm{x}$ and $\bm{y}$ is
+Let $\mathbf{x}, \mathbf{y} \in \mathbb{R}^n$, then the _dot product_ of $\mathbf{x}$ and $\mathbf{y}$ is
 
 $$
-\bm{x} \dot \bm{y} = \sum\_{i=1}^n x_i y_i.
+\mathbf{x} \dot \mathbf{y} = \sum\_{i=1}^n x_i y_i.
 $$
 
-The inner product of a vector $\bm{x} \in mathbb{R}^n$ with itself, denoted $||x||$, is the squared Euclidean distance associated
-with $\bm{x}$.
+The inner product of a vector $\mathbf{x} \in mathbb{R}^n$ with itself, denoted $||x||$, is the squared Euclidean distance associated
+with $\mathbf{x}$.
 
 
+#### Reference to a previous equation.
 
 Recall the binomial expansion is given in Equation \eqref{eq:binomial} previously.
 
