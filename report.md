@@ -85,6 +85,8 @@ The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. Th
 
 $$\bbox[10px,cornsilk,border:2px solid black]{\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}}$$
 
+Recall the binomial expansion is given in Equation \eqref{eq:binomial} previously.
+
 ### Numerous Math fonts
 
 Bulletin Board font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
