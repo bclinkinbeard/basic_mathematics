@@ -1,8 +1,10 @@
 <center> <h1>Typesetting Mathematics</h1> </center>
 
 [Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter)
-includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples follow showing
-just how much is possible (don't forget to view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
+includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content
+one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples
+follow showing how much is possible. And if you're wondering what the mark-up is that gives a particular result,
+don't forget you can always view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
 
 ## In-line math:
 
@@ -79,7 +81,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often expressed as $\varphi$, can be expressed as a continued fraction as follows:
 
-$$\bbox[border:1px solid red]{\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}}$$
+$$\bbox[5px grey]{\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}}$$
 
 ### Numerous Math fonts
 
