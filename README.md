@@ -1,4 +1,4 @@
-![Literasee](Literasee_symbol_left.png "Literasee") 
+![Literasee](https://raw.githubusercontent.com/Literasee/literasee.github.io/master/public/Literasee_symbol_left.png "Literasee") 
 
 Literasee supports mathematics typesetting via [MathJax](https://www.mathjax.org/) :smile:
 

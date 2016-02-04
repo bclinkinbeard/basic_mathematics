@@ -112,9 +112,10 @@ The inner product of a vector $\mathbf{x} \in \mathbb{R}^n$ with itself, denoted
 with $\mathbf{x}$.
 
 
-#### Reference to a previous equation.
+#### Reference to a previous equation
 
 Recall the binomial expansion is given in Equation \eqref{eq:binomial} previously.
+
 
 ## Numerous Math fonts
 
