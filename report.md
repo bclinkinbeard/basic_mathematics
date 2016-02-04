@@ -55,7 +55,9 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 
 ## Aligned equations:
 
-$\begin{align} f(x, y) & = (x+y)^n \tag{1}\\\\ & = {n \choose 0} x^ny^0+ {n \choose 1} x^{n-1}y^1 + \cdots + {n \choose n} x^0y^n\tag{2}\\\\ \end{align}$
+The binomial expansion is given in Equation \eqref{eq:binomial}
+
+$\begin{align} f(x, y) & = (x+y)^n \tag{1}\\\\ & = {n \choose 0} x^ny^0+ {n \choose 1} x^{n-1}y^1 + \cdots + {n \choose n} x^0y^n\tag{2} \label{eq:binomial}\\\\ \end{align}$
 
 $\begin{align} MSE(\hat{\theta}) & = \mathbb{E}[(\hat{\theta} - \theta)^2] \\\\ & = \dfrac{1}{n} \sum\limits\_{i=1}^n (\widehat{\theta}\_{i} - \theta\_i)^2 \\\\ \end{align}$
 
