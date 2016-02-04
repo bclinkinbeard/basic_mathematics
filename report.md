@@ -84,7 +84,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often expressed as $\varphi$, can be expressed as a continued fraction as follows:
 
-$$\bbox[10px,cornsilk,border:2px solid black]{\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}}$$
+$$\bbox[10px,gold,border:2px solid black]{\textrm{Golden Ratio} \equiv \varphi=1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\cfrac1{1+\ddots}}}}}$$
 
 The probability density of the normal distribution with mean $\mu$ and standard deviation $\sigma$, denoted $\mathcal{N}(\mu, \sigma)$, is given by:
 
