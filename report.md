@@ -2,9 +2,10 @@
 
 [Literasee](http://literasee.io) (via the [marked](https://github.com/chjj/marked) markdown interpreter)
 includes [MathJax](https://www.mathjax.org/) which provides typeset quality mathematics as part of any web-based content
-one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. Dozens of examples
-follow showing how much is possible. And if you're wondering what the mark-up is that gives a particular result,
-don't forget you can always view the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
+one produces. Mathematics is included via standard [TeX/LaTeX](https://www.latex-project.org/) markup. The dozens of examples
+that follow show how much is possible. As you look at the examples, if you're wondering what the mark-up is that gives a
+particular result, because Literasee is [GitHub](https://www.github.com) based, you can always look at the [source](https://raw.githubusercontent.com/Literasee/basic_mathematics/master/report.md)).
+
 
 ## In-line math:
 
