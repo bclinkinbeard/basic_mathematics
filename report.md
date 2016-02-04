@@ -88,6 +88,10 @@ $$\bbox[10px,cornsilk,border:2px solid black]{\textrm{Golden Ratio} \equiv \varp
 
 The probability density of the normal distribution with mean $\mu$ and standard deviation $\sigma$, denoted $\mathcal{N}(\mu, \sigma)$, is given by:
 
+$$
+f(x | \mu, \sigma^2) = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x - \mu)^2}{2 \sigma^2}}
+$$
+
 Recall the binomial expansion is given in Equation \eqref{eq:binomial} previously.
 
 ### Numerous Math fonts
